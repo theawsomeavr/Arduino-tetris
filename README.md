@@ -6,3 +6,5 @@ tetris running on the arduino with music
  * the tetris theme play by the same MCU/arduino board without any external Integrated Circuits (the music is outputted through pin 9)
  * and at game over present the current score (number of lines that you have eliminated) as well as the highest score (that is saved on the eeprom).
  * It is very important the you have wipe the eeprom before you upload this code https://www.arduino.cc/en/Tutorial/EEPROMClear
+video:https://youtu.be/EBNhFzYwQ5M
+schematic:https://easyeda.com/elpro/arduino-tetris
